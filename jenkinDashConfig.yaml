@@ -61,7 +61,7 @@ jenkins:
   - all:
       name: "all"
   viewsTabBar: "standard"
-  systemMessage: "hello vinod,this is my new jenkins dashboard for practice"
+  systemMessage: "hello vinod,this is my new jenkins dashboard for practice..!"
 globalCredentialsConfiguration:
   configuration:
     providerFilter: "none"
